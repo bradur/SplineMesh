@@ -1,7 +1,7 @@
 {
   "name": "com.bradur.splinemeshfork",
   "displayName": "SplineMesh Fork",
-  "version": "1.0",
+  "version": "1.0.0",
   "documentationUrl": "https://github.com/bradur/SplineMesh",
   "changelogUrl": "https://github.com/bradur/SplineMesh/releases",
   "licensesUrl": "https://github.com/bradur/SplineMesh/blob/master/LICENSE.txt",
